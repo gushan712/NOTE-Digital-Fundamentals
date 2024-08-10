@@ -1,2 +1,2 @@
-# NOTE-Digital-Fundamentals
-SJTU digital fundamentals notes
+# Notes in SJTU
+Digital-Fundamentals
